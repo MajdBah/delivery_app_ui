@@ -1,5 +1,7 @@
 # delivery_app_ui
 
+![Screenshot_1655366902](https://user-images.githubusercontent.com/78877010/174024139-8e9691e2-9d10-4315-8e59-00a4f7bafd5c.png)
+
 A new Flutter project.
 
 ## Getting Started
