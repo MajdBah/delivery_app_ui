@@ -29,7 +29,7 @@ class CartItem extends StatelessWidget {
         border: Border(
           bottom: BorderSide(
             color: const Color(0xff707070).withOpacity(0.1),
-            width: index == itemsInCart.length ? 1 : 0,
+            width: 1,
           ),
         ),
       ),
